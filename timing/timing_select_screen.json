@@ -1,0 +1,11 @@
+{signal: [
+  {'name': 'SCLK', wave: '0.p........____'},
+  {'name': 'D10', wave: '1.0.......1....', node: '..........a'},
+  {'name': 'MOSI', wave: 'xx0....10..2.xx', data: ["screen"], node: '...........b'},
+  {'name': 'D4', wave: 'xx0..........10', node: '.............cd'},
+],
+  'edge': [
+  'a-|->b 10ms',
+  'c<->d 5ms'
+]
+}

@@ -1,0 +1,9 @@
+(sym_lib_table
+  (lib (name rur)(type Legacy)(uri /home/dzolotov/aircube/rur.lib)(options "")(descr ""))
+  (lib (name arduino)(type Legacy)(uri "C:/Users/Ариана/Desktop/Диплом ИТМО/aircube/arduino.lib")(options "")(descr ""))
+  (lib (name SparkFun-Displays)(type Legacy)(uri /home/dzolotov/aircube/SparkFun-Displays.lib)(options "")(descr ""))
+  (lib (name displays)(type Legacy)(uri "C:/Users/Ариана/Desktop/Диплом ИТМО/aircube/displays.lib")(options "")(descr ""))
+  (lib (name spi_display)(type Legacy)(uri "C:/Users/Ариана/Desktop/Диплом ИТМО/aircube/spi_display.lib")(options "")(descr ""))
+  (lib (name cube-rescue)(type Legacy)(uri ${KIPRJMOD}/cube-rescue.lib)(options "")(descr ""))
+  (lib (name LED2)(type Legacy)(uri "C:/Users/Ариана/Desktop/Диплом ИТМО/aircube/LED2.lib")(options "")(descr ""))
+)
